@@ -1,0 +1,1 @@
+Prime World Classic: user folder is %LOCALAPPDATA%\My Games\Prime World Classic (launcher checks this file)
